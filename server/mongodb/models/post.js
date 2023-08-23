@@ -7,5 +7,5 @@ const Post = new mongoose.Schema({
 });
 
 const PostSchema = mongoose.model('Post', Post);
-
+//hello
 export default PostSchema;
